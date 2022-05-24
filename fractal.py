@@ -42,7 +42,7 @@ def startp(b= [[-1,0],[1,0]]): # != a los valores de los indices de a continuaci
   #startpoint2 es el endpoint
   
   
-  def parallel_p(longi,segmento,tipo): #yields the new points from basis points
+def parallel_p(longi,segmento,tipo): #yields the new points from basis points
   #long = give_me_lenght(segmento)
   longi=tipo
   p1,p2 = segmento
