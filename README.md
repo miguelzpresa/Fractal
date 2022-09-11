@@ -1,4 +1,4 @@
-# Examen-2-Sistemas-Dinámicos
+# -Sistemas-Dinámicos
 Implementación Fallida de un Fractal
 ---------------------------------------------------------------------------------------------
 Autor: Miguel Ángel Zamorano Presa
