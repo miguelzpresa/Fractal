@@ -1,5 +1,5 @@
 # -Sistemas-Dinámicos
-Implementación Fallida de un Fractal
+Implementación Fractal
 ---------------------------------------------------------------------------------------------
 Autor: Miguel Ángel Zamorano Presa
 contacto: mikezpresa@gmail.com
